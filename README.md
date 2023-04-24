@@ -1,13 +1,19 @@
-#Peter Mulu Kioko
-##Welcome to my profile! My name is Peter Mulu Kioko and I am a professional web developer. Here are some links to my portfolio and social media profiles:
+# Peter Mulu Kioko
 
-###Portfolio
-####portfolio-peterkioko.me/peter
+Peter Mulu Kioko
+Welcome to my profile! My name is Peter Mulu Kioko and I am a professional web developer. Here are some links to my portfolio and social media profiles:
 
-###Instagram
-####instagram.com/kio.ko_
+Peter Mulu Kioko
+Welcome to my profile! My name is Peter Mulu Kioko and I am a professional web developer. Here are some links to my portfolio and social media profiles:
 
-###LinkedIn
-####linkedin.com/in/peter-kioko-94294723b/
+[Portfolio](portfolio-peterkioko.me/peter)
+
+
+[Instagram](instagram.com/kio.ko_)
+
+
+[LinkedIn](linkedin.com/in/peter-kioko-94294723b/)
+
 
 Feel free to reach out to me if you have any questions or if you're interested in working with me. Thank you for visiting my profile!
+
